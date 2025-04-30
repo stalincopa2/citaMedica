@@ -1,0 +1,3 @@
+<?php 
+ $contenido = "SISTEMA DE AGENDAMIENTO DE CITAS MEDICAS";
+?>

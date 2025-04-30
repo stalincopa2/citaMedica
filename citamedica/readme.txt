@@ -1,0 +1,9 @@
+ATUOR: STALIN COPA
+PASOS PARA LA PUESTA EL DESPLIEGUE DE LA APLICACION
+
+1. EN LA CARPETA PARAMETERES; ASIGNAR LOS VALORES DEL NOMBRE DE LA CARPETA EN CASO DE QUE SE LE CAMBIE POR OTRO NOMBRE
+2. EN EL DIRECTION RAZI SE PONDRÍA EL LINK DEL PROYECTO EN CASO DE QUE EL SERVIDOR FUNCIONE CON UNA IP DIFERENTE A LA DEL LOCALHOST
+
+3. EN LA RUTA src/DAL/DB, existe el archivo data source, en el cual se puede cambiar el nombre de la base, la ip, el usuario ya la contraseña en caso de que sean diferentes
+a las que vienen por default
+
